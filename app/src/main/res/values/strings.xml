@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">30days Of Wellness</string>
+
+    <!-- Day 1 -->
+    <string name="day1">Day 1</string>
+    <string name="activityName1">Morning Yoga</string>
+    <string name="activityDetail1">Start your day with 20 minutes of gentle yoga to improve flexibility, reduce stress, and energize your body for the day ahead.</string>
+
+    <!-- Day 2 -->
+    <string name="day2">Day 2</string>
+    <string name="activityName2">Mindful Breathing</string>
+    <string name="activityDetail2">Spend 10 minutes practicing mindful breathing. Focus on your breath to calm your mind and improve concentration.</string>
+
+    <!-- Day 3 -->
+    <string name="day3">Day 3</string>
+    <string name="activityName3">Nature Walk</string>
+    <string name="activityDetail3">Take a 30-minute walk in a park or natural setting. Enjoy the fresh air and connect with nature to enhance your mood.</string>
+
+    <!-- Day 4 -->
+    <string name="day4">Day 4</string>
+    <string name="activityName4">Gratitude Journal</string>
+    <string name="activityDetail4">Write down three things you are grateful for. Reflecting on positive aspects of your life can boost your happiness.</string>
+
+    <!-- Day 5 -->
+    <string name="day5">Day 5</string>
+    <string name="activityName5">Healthy Meal Prep</string>
+    <string name="activityDetail5">Spend an hour preparing a nutritious meal with fresh vegetables, lean protein, and whole grains for a healthy diet.</string>
+
+    <!-- Day 6 -->
+    <string name="day6">Day 6</string>
+    <string name="activityName6">Meditation</string>
+    <string name="activityDetail6">Dedicate 15 minutes to meditation. Sit comfortably, close your eyes, and focus on your breath or a calming mantra.</string>
+
+    <!-- Day 7 -->
+    <string name="day7">Day 7</string>
+    <string name="activityName7">Digital Detox</string>
+    <string name="activityDetail7">Take a break from screens for at least two hours. Use this time to read a book, journal, or spend time with loved ones.</string>
+
+    <!-- Day 8 -->
+    <string name="day8">Day 8</string>
+    <string name="activityName8">Hydration Check</string>
+    <string name="activityDetail8">Focus on drinking at least 8 glasses of water throughout the day to stay hydrated and support overall health.</string>
+
+    <!-- Day 9 -->
+    <string name="day9">Day 9</string>
+    <string name="activityName9">Stretch Break</string>
+    <string name="activityDetail9">Incorporate 10 minutes of stretching into your day to release muscle tension and improve posture.</string>
+
+    <!-- Day 10 -->
+    <string name="day10">Day 10</string>
+    <string name="activityName10">Early Bedtime</string>
+    <string name="activityDetail10">Set an earlier bedtime tonight to ensure you get 7_8 hours of quality sleep for better recovery and energy.</string>
+
+    <!-- Day 11 -->
+    <string name="day11">Day 11</string>
+    <string name="activityName11">Laughter Session</string>
+    <string name="activityDetail11">Watch a comedy show or spend time with a funny friend. Laughter is a great stress reliever and boosts your mood.</string>
+
+    <!-- Day 12 -->
+    <string name="day12">Day 12</string>
+    <string name="activityName12">Home Workout</string>
+    <string name="activityDetail12">Complete a 20-minute home workout. Include exercises like squats, push-ups, and planks to strengthen your body.</string>
+
+    <!-- Day 13 -->
+    <string name="day13">Day 13</string>
+    <string name="activityName13">Creative Hobby</string>
+    <string name="activityDetail13">Spend 30 minutes on a creative hobby like drawing, writing, or crafting to relax and express yourself.</string>
+
+    <!-- Day 14 -->
+    <string name="day14">Day 14</string>
+    <string name="activityName14">Music Therapy</string>
+    <string name="activityDetail14">Listen to your favorite music or a relaxing playlist. Music can improve mood and reduce anxiety.</string>
+
+    <!-- Day 15 -->
+    <string name="day15">Day 15</string>
+    <string name="activityName15">Deep Cleaning</string>
+    <string name="activityDetail15">Choose one area of your home to clean and organize. A tidy space promotes mental clarity and reduces stress.</string>
+
+    <!-- Day 16 -->
+    <string name="day16">Day 16</string>
+    <string name="activityName16">Kindness Challenge</string>
+    <string name="activityDetail16">Perform a random act of kindness, like helping a neighbor or complimenting a friend. Small acts create big joy.</string>
+
+    <!-- Day 17 -->
+    <string name="day17">Day 17</string>
+    <string name="activityName17">Aromatherapy</string>
+    <string name="activityDetail17">Use calming essential oils like lavender or eucalyptus to create a relaxing atmosphere in your home.</string>
+
+    <!-- Day 18 -->
+    <string name="day18">Day 18</string>
+    <string name="activityName18">Sunlight Boost</string>
+    <string name="activityDetail18">Spend 15 minutes in sunlight, preferably in the morning. Sunlight helps regulate mood and supports Vitamin D production.</string>
+
+    <!-- Day 19 -->
+    <string name="day19">Day 19</string>
+    <string name="activityName19">Mindful Eating</string>
+    <string name="activityDetail19">Eat a meal slowly and mindfully. Focus on the flavors, textures, and aromas to enhance your eating experience.</string>
+
+    <!-- Day 20 -->
+    <string name="day20">Day 20</string>
+    <string name="activityName20">Vision Board</string>
+    <string name="activityDetail20">Create a vision board with your goals and aspirations. Visualizing success can motivate and inspire you.</string>
+
+    <!-- Day 21 -->
+    <string name="day21">Day 21</string>
+    <string name="activityName21">Gardening</string>
+    <string name="activityDetail21">Spend time gardening or caring for houseplants. It\'s a soothing activity that connects you with nature.</string>
+
+    <!-- Day 22 -->
+    <string name="day22">Day 22</string>
+    <string name="activityName22">Learn Something New</string>
+    <string name="activityDetail22">Dedicate 30 minutes to learning a new skill or topic that interests you. Continuous learning keeps the mind sharp.</string>
+
+    <!-- Day 23 -->
+    <string name="day23">Day 23</string>
+    <string name="activityName23">Evening Walk</string>
+    <string name="activityDetail23">Take a leisurely 20-minute evening walk to unwind and reflect on the day.</string>
+
+    <!-- Day 24 -->
+    <string name="day24">Day 24</string>
+    <string name="activityName24">Positive Affirmations</string>
+    <string name="activityDetail24">Write down or recite positive affirmations about yourself to boost self-confidence and happiness.</string>
+
+    <!-- Day 25 -->
+    <string name="day25">Day 25</string>
+    <string name="activityName25">Hydrating Skin Care</string>
+    <string name="activityDetail25">Pamper yourself with a hydrating skincare routine. Nourished skin makes you feel fresh and rejuvenated.</string>
+
+    <!-- Day 26 -->
+    <string name="day26">Day 26</string>
+    <string name="activityName26">Phone-Free Hour</string>
+    <string name="activityDetail26">Set aside an hour without your phone to reconnect with yourself or those around you.</string>
+
+    <!-- Day 27 -->
+    <string name="day27">Day 27</string>
+    <string name="activityName27">Dance Party</string>
+    <string name="activityDetail27">Put on your favorite upbeat songs and dance like nobody is watching. It is fun and a great workout!</string>
+
+    <!-- Day 28 -->
+    <string name="day28">Day 28</string>
+    <string name="activityName28">Volunteer</string>
+    <string name="activityDetail28">Spend some time volunteering or helping someone in need. It’s fulfilling and strengthens community bonds.</string>
+
+    <!-- Day 29 -->
+    <string name="day29">Day 29</string>
+    <string name="activityName29">Breathing Exercises</string>
+    <string name="activityDetail29">Practice diaphragmatic breathing for 5_10 minutes. It\'s a quick way to relieve stress and promote relaxation.</string>
+
+    <!-- Day 30 -->
+    <string name="day30">Day 30</string>
+    <string name="activityName30">Gratitude Call</string>
+    <string name="activityDetail30">Call or meet someone you’re grateful for and let them know. Strengthening relationships enriches life.</string>
+</resources>
